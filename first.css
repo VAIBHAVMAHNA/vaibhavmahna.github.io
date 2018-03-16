@@ -129,6 +129,10 @@ html,.row
 		font-size:10px;
 		color: black;
 	}
+	.wrap4 p
+	[
+		padding-left: 50px;
+	}
 }
 @media all and (min-width: 761px) and (max-width:1199px) and (orientation: portrait){
 	li
