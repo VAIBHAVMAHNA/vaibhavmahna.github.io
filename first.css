@@ -130,7 +130,7 @@ html,.row
 		color: black;
 	}
 	.wrap4 p
-	[
+	{
 		padding-left: 300px;
 	}
 }
