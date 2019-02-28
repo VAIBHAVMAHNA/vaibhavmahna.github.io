@@ -129,9 +129,9 @@ html,.row
 		font-size:10px;
 		color: black;
 	}
-	.wrap4 ul
+	.wrap4 p
 	{	
-		padding-left: 300px;
+		padding-left: 70px;
 	}
 }
 @media all and (min-width: 761px) and (max-width:1199px) and (orientation: portrait){
@@ -142,7 +142,7 @@ html,.row
 	}
 	ul
 	{
-		padding-left: 115px;
+		padding-left: 200px;
 	}
 	.wrap3 p
 	{
@@ -159,7 +159,7 @@ html,.row
 	}
 	ul
 	{
-		padding-left: 200px;
+		padding-left: 300px;
 	}
 	.wrap3 p
 	{
