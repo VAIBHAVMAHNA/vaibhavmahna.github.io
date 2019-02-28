@@ -150,6 +150,10 @@ html,.row
 		font-size:10px;
 		color: black;
 	}
+	.wrap4 row
+	{	
+		padding-left: 200px;
+	}
 }
 @media all and (min-width: 761px) and (max-width:1199px) and (orientation: landscape){
 	li
