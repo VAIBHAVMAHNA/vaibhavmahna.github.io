@@ -110,7 +110,10 @@ html,.row
 	padding-left: 110px;
         color: black;
     }
-	
+    .wrap4 row ul li
+    {
+	padding-left: 200px;
+    }
 }
 @media all and (min-width: 362px) and (max-width:760px){
 	li
