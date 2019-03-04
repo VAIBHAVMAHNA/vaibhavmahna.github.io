@@ -110,9 +110,9 @@ html,.row
 	padding-left: 110px;
         color: black;
     }
-    ul
+    ul	
     {
-	padding-left: 200px;
+	padding-left: 800px;
     }
 }
 @media all and (min-width: 362px) and (max-width:760px){
